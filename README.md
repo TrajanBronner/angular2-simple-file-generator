@@ -1,0 +1,1 @@
+# angular2-simple-file-generator
